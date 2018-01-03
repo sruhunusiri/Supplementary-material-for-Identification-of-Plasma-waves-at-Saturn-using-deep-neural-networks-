@@ -1,9 +1,9 @@
 # Supplementary-material-for-Identification-of-Plasma-waves-at-Saturn-using-deep-neural-networks-
-This repository contains supplementary material to Suranga Ruhunusiri, "Identification of Plasma waves at Saturn  using deep neural networks", submitted to  IEEE Transactions on Geoscience and  Remote Sensing, 2018.
+This repository contains supplementary material to Suranga Ruhunusiri, "Identification of Plasma waves at Saturn  using deep neural networks", submitted to  IEEE Transactions on Geoscience and  Remote Sensing, 2018. The repository contains following files:
 
 1. An Excel file with times where Whistler precursor waves are identified in the upstream region of Saturn: Whistler_precursor_wave_event_times
 
-2. MATLAB program to read Cassini 1-second averaged MAG data file and load data into MATLAB Workspace and save MAG data as .mat file: Cassini_MAG_reader.m
+2. A MATLAB program to read Cassini 1-second averaged MAG data file and load data into MATLAB Workspace and save MAG data as .mat file: Cassini_MAG_reader.m
 
 3. A sample Cassini 1-second averaged calibrated MAG data file in .TAB format (contains MAG data from Aug 27, 2004 to Nov 21, 2004): 04240_04326_0A_FGM_KSO_1S.TAB
 
