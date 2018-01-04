@@ -43,8 +43,8 @@ st_fil=0;
 % folders "Deep_train" and "Deep_test" were constructed
 % using a default value of 0 for the "shift_time" variable.
 % For example, if you need to create a JPEG image with only 90% of
-% the wave packet use (1-0.9)*120 = 12. The "waves" subfolders within the folders "90_p_wave",
-% "75_p_wave", and "50_p_wave" provided with this repository contain JPEG images of waves that only 
+% the wave packet use (1-0.9)*120 = 12. The "waves" subfolders within the folders "90p_Wave_Packet_Test_Set",
+% "75p_Wave_Packet_Test_Set", and "75p_Wave_Packet_Test_Set" provided with this repository contain JPEG images of waves that only 
 % contain 90%, 75%, and 50% of the wave packets. These JPEG
 % images were constructed by using shift times of 12, 30, and 60,
 % respectively. 
