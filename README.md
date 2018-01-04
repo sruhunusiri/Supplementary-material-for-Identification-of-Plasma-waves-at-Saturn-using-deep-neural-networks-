@@ -15,11 +15,11 @@ and data for figures in the paper. Detail descriptions of the files are provided
    save MAG data as .mat file: Cassini_MAG_Reader.m [3 KB]
 
 3. A sample Cassini 1-second averaged calibrated MAG data file in .TAB format 
-   (contains MAG data from Aug 27, 2004 to Nov 21, 2004): 04240_04326_0A_FGM_KSO_1S.TAB [11.4MB]
+   (contains MAG data from Nov 08, 2004 to Nov 09, 2004): 04313_04314_0A_FGM_KSO_1S.TAB [11.4MB]
 
 4. Two samples of Cassini 1-second averaged calibrated MAG data files in .mat format 
-   (contains MAG data from Aug 27, 2004 to Nov 21, 2004 and Jul 09, 2007 to Aug 09, 2007): 
-   Mag_1s_data_2004_Aug_27_to_Nov_21.mat [1.54 MB] & Mag_1s_data_2007_Jul_09_to_Aug_09.mat [2 MB]
+   (contains MAG data from Nov 08, 2004 to Nov 09, 2004 and Jul 26, 2007 to Jul 28, 2007): 
+   Mag_1s_data_2004_Nov_08_to_Nov_09.mat [1.54 MB] & Mag_1s_data_2007_Jul_26_to_Jul_28.mat [2 MB]
 
 5. A MATLAB program to plot Cassini MAG data: Cassini_MAG_Data_Plotter.m [2 KB]
 
