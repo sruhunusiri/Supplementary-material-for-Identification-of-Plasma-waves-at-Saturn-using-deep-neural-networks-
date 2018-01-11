@@ -1,6 +1,5 @@
 % Supplementary material to Suranga Ruhunusiri, "Identification of Plasma waves at Saturn 
-% using deep neural networks", to be published in IEEE Transactions on Geoscience and 
-% Remote Sensing, 2018.
+% using deep neural networks", to be published in IEEE Transactions on Plasma Science, 2018.
 
 % This program has been tested with MATLAB R2017a on Windows 10.
 
