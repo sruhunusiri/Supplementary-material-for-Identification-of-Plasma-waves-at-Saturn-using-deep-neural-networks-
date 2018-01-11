@@ -1,8 +1,7 @@
 # Supplementary_material_for_Identification_of_Plasma_Waves_at_Saturn_Using_Deep_Neural_Networks
 
 This repository contains supplementary material to Suranga Ruhunusiri, "Identification of Plasma waves at Saturn 
-using deep neural networks", submitted to IEEE Transactions on Geoscience and 
-Remote Sensing, 2018. 
+using deep neural networks", submitted to IEEE Transactions on Plasma Science, 2018. 
 
 The repository contains MATLAB programs for generating data sets for training and testing a Deep Convolutional Network, 
 MATLAB programs for training and testing a Deep Convolutional Network, data sets for training and testing a Deep Convolutional Network, 
